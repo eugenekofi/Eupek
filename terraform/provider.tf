@@ -12,7 +12,7 @@ terraform {
   # backend "s3" {
   #   bucket         = "jerney-terraform-state"
   #   key            = "eks/terraform.tfstate"
-  #   region         = "us-east-1"
+  #   region         = "us-west-2"
   #   dynamodb_table = "jerney-tf-lock"
   #   encrypt        = true
   # }
